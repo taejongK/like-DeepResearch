@@ -1,6 +1,4 @@
 # DeepResearch 
-reference: https://github.com/dabidstudio/python_deepresearch/tree/main
-
 
 ## Overview
 Deep Research는 기술 리서치를 자동화하는 도구입니다. 사용자가 질문을 입력하면 관련 정보를 크롤링하고, 추가적인 질문을 통해 보다 정확한 리포트를 생성합니다. 연구 논문, 기술 동향, 시장 조사 등 다양한 분야의 리서치에 활용할 수 있습니다.
