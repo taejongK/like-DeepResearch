@@ -25,7 +25,7 @@ Deep Research는 기술 리서치를 자동화하는 도구입니다. 사용자�
 ## 설치 및 실행 방법
 ### 프로젝트 클론
 ```bash
-git clone https://github.com/your-repo/deep-research.git
+git clone https://github.com/taejongK/like-DeepResearch.git
 cd deep-research
 ```
 ### 환경 설정
